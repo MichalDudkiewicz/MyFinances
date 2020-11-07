@@ -16,7 +16,7 @@ oraz natychmiastowego przedstawienia ich na diagramie, aby nie musieć wykonywa�
 * Jako uporządkowany dorosły chcę mieć dostęp do statystyk ile oraz na co wydawałem pieniędzy w poszczególnych miesiącach, tak aby zaplanować wydatki w kolejnych miesiącach.
 * Jako biedny student chcę wiedzieć ile pieniędzy wydaję średnio miesięcznie na jedzenie, aby o tyle poprosić rodziców.
 ## 3. Charakter i główne funkcje aplikacji
-Aplikacja ma charakter planera/organizera dla wydatków użytkownika.
+Aplikacja ma charakter planera/organizera dla wydatków użytkownika. Główne funkcje:
 
 * zapisywanie zakupów w historii z podziałem na kategorie.
 * sumowanie wydatków w bieżącym miesiącu z podziałem na kategorie zakupów.
