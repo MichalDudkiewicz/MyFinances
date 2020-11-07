@@ -21,15 +21,17 @@ Aplikacja ma charakter planera/organizera dla wydatków użytkownika. Główne f
 * zapisywanie zakupów w historii z podziałem na kategorie.
 * sumowanie wydatków w bieżącym miesiącu z podziałem na kategorie zakupów.
 * pokazywanie statystyk związanych z zakupami dla konkretnych miesięcy.
-## 4. Podobne aplikacje na rynku i przewaga nad konkurencją
+## 4. Treści aplikacji
+Użytkownikiem końcowym są dorośli. Do użytkownika docieramy głównie poprzez diagramy, grafy lub wykresy oraz zwięzłą treść i prostotę aplikacji. Brak lub ubogie efekty audiowizualne i zdjęcia.
+## 5. Podobne aplikacje na rynku i przewaga nad konkurencją
 Istnieje wiele aplikacji oferujących opisane wyżej funkcjonalności, jak organizer wydatków. Moja aplikacja nie oferuje nic nowego. 
 Ciekawym rozwiązaniem byłoby wykorzystanie API wybranego banku, żeby automatycznie aktualizować wydatki przy płatności kartą. 
-## 5. Aura
+## 6. Aura
 Chcemy aby aplikacja stała się nieodłącznym elementem podczas każdych naszych zakupów. 
 Żeby dawała poczucie spokoju i pewności, że wystarczy nam pieniędzy do kolejnej wypłaty. Dawała poczucie stabilności oraz zorganizowania.
-## 6. UX/UI
+## 7. UX/UI
 [UX/UI prototype](https://marvelapp.com/prototype/969aaif)
-## 7. Szczegóły techniczne
+## 8. Szczegóły techniczne
 Aplikacja jest dedykowana na smartphony i tablety z systemem operacyjnym Android (API 26+). 
 Aplikacja będzie składać się z 4 ekranów. Content graficzny z internetu. Aplikacja nie korzysta z żadnych czujników poza ekranem dotykowym. Sterowanie odbywa się poprzez swipe'owanie prawo/lewo w celu przełączania się między activity lub wciskanie odpowiednich przycisków. Brak efektów dźwiękowych.
 
