@@ -5,6 +5,7 @@ sprawdzać historię oraz statystyki dotyczące wydatków. Dzięki temu łatwiej
 Aplikacja pomaga zarówno w planowaniu, przewidywaniu wydatków jak i oszczędzaniu pieniędzy.
 ## 2. Grupa docelowa
 Głównymi odbiorcami są wszyscy dorośli pracujący, którzy pragną uporządkować swoje finanse oraz chcą wiedzieć na co, ile oraz kiedy wydają pieniędze oraz seniorzy.
+Aplikacja będzie używana zaraz po dokonaniu kazdego zakupu, tak aby o nim nie zapomnieć lub później na podstawie dowodu zakupu jak faktura lub paragon.
 
 User stories:
 * Jako pracujący rodzic chcę mieć możliwość dodania własnej kategorii, aby wiedzieć ile pieniędzy wydaję na dzieci. 
