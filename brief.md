@@ -24,5 +24,5 @@ Chcemy aby aplikacja stała się nieodłącznym elementem podczas każdych naszy
 ## 5. UX/UI
 [UX/UI prototype](https://marvelapp.com/prototype/969aaif)
 ## 6. Szczegóły techniczne
-Aplikacja jest dedykowana na smartphony i tablety z systemem operacyjnym Android. 
-Aplikacja będzie składać się z 4 ekranów.
+Aplikacja jest dedykowana na smartphony i tablety z systemem operacyjnym Android (API 26+). 
+Aplikacja będzie składać się z 4 ekranów. Content graficzny z internetu. 
