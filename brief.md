@@ -4,7 +4,8 @@ Aplikacja ma na celu ułatwienie zarządzania własnymi finansami. Użytkownik m
 sprawdzać historię oraz statystyki dotyczące wydatków. Dzięki temu łatwiej jest przewidzieć ile pieniędzy wyda w kolejnym miesiącu w sumie oraz na każdą z dodanych kategorii. 
 Aplikacja pomaga zarówno w planowaniu, przewidywaniu wydatków jak i oszczędzaniu pieniędzy.
 ## 2. Grupa docelowa
-Głównymi odbiorcami są wszyscy dorośli pracujący, którzy pragną uporządkować swoje finanse oraz chcą wiedzieć na co, ile oraz kiedy wydają pieniędze. 
+Głównymi odbiorcami są wszyscy dorośli pracujący, którzy pragną uporządkować swoje finanse oraz chcą wiedzieć na co, ile oraz kiedy wydają pieniędze oraz seniorzy.
+
 User stories:
 * Jako pracujący rodzic chcę mieć możliwość dodania własnej kategorii, aby wiedzieć ile pieniędzy wydaję na dzieci. 
 * Jako starsza osoba chcę mieć dostęp do historii swoich wydatków, aby przypomnieć sobie na co wydałem pieniądze.
