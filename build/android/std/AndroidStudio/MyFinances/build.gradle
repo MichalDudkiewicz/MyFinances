@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+
+android {
+    defaultConfig {
+        applicationId = "io.boden.MyFinances"
+        minSdkVersion 23
+        compileSdkVersion 28
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0.0"
+        externalNativeBuild {
+            cmake {
+                targets "MyFinances"
+                arguments "-DANDROID_STL=c++_static", "-DANDROID_CPP_FEATURES=rtti exceptions", "-DBDN_ANDROID_MIN_SDK_VERSION=$minSdkVersion.mApiLevel", "-DBDN_ANDROID_TARGET_SDK_VERSION=$targetSdkVersion.mApiLevel"
+                
+                cppFlags "-std=c++17 -frtti -fexceptions"                  
+            }
+        }
+    }
+    buildTypes {
+        defaultConfig {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            
+        }
+    }
+    externalNativeBuild {
+        cmake {            
+            path "/home/dudkiewm/boden/MyFinances/CMakeLists.txt"
+            version "3.18.4"
+        }
+    }
+
+
+    sourceSets {
+        main {
+            java {
+                srcDirs = ['/home/dudkiewm/boden/3rdparty/java', '/home/dudkiewm/boden/framework/foundation/java', '/home/dudkiewm/boden/framework/foundation/platforms/android/java', '/home/dudkiewm/boden/framework/net/java', '/home/dudkiewm/boden/framework/net/platforms/android/java', '/home/dudkiewm/boden/framework/ui/java', '/home/dudkiewm/boden/framework/ui/platforms/android/java', '/home/dudkiewm/boden/framework/ui/modules/yoga/java', '/home/dudkiewm/boden/framework/ui/modules/lottieview/java', '/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/java', '/home/dudkiewm/boden/MyFinances/java']
+            }
+            jni {
+                srcDirs = ['/home/dudkiewm/boden/3rdparty/src', '/home/dudkiewm/boden/framework/foundation/src', '/home/dudkiewm/boden/framework/foundation/platforms/android/src', '/home/dudkiewm/boden/framework/net/src', '/home/dudkiewm/boden/framework/net/platforms/android/src', '/home/dudkiewm/boden/framework/ui/src', '/home/dudkiewm/boden/framework/ui/platforms/android/src', '/home/dudkiewm/boden/framework/ui/modules/yoga/src', '/home/dudkiewm/boden/framework/ui/modules/lottieview/src', '/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/src', '/home/dudkiewm/boden/MyFinances/src', '/home/dudkiewm/boden/3rdparty/include', '/home/dudkiewm/boden/framework/foundation/include', '/home/dudkiewm/boden/framework/foundation/platforms/android/include', '/home/dudkiewm/boden/framework/net/include', '/home/dudkiewm/boden/framework/net/platforms/android/include', '/home/dudkiewm/boden/framework/ui/include', '/home/dudkiewm/boden/framework/ui/platforms/android/include', '/home/dudkiewm/boden/framework/ui/modules/yoga/include', '/home/dudkiewm/boden/framework/ui/modules/lottieview/include', '/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/include', '/home/dudkiewm/boden/MyFinances/include']
+            }
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation 'com.android.support:appcompat-v7:28.+'
+    implementation 'com.android.volley:volley:1.1.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.android.support:recyclerview-selection:28.+'
+    implementation 'com.airbnb.android:lottie:2.8.0'
+
+
+
+}

@@ -1,0 +1,34 @@
+Detecting C compiler ABI info
+Detecting C compiler ABI info - done
+Check for working C compiler: /home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/bin/clang - skipped
+Detecting C compile features
+Detecting C compile features - done
+Detecting CXX compiler ABI info
+Detecting CXX compiler ABI info - done
+Check for working CXX compiler: /home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ - skipped
+Detecting CXX compile features
+Detecting CXX compile features - done
+Boden platform:
+  Name: android
+  Family: posix
+Boden configuration:
+  Uses foundation kit: No
+  Uses java: Yes
+  Force shared: Yes
+  Force static: No
+clang-format was not found!
+Found PythonInterp: /usr/bin/python (found version "2.7.17") 
+Using the single-header code from /home/dudkiewm/boden/3rdparty/json/single_include/
+Boden library configuration:
+  Shared: Off
+  Architecture: 64 bit
+Performing Test HAS_STD_FILESYSTEM
+Performing Test HAS_STD_FILESYSTEM - Failed
+Including custom std::filesystem implementation
+Package name: boden-0.3.0-android-x86_64-23-Release-Clang
+Configuring done
+CMake Deprecation Warning:
+  The 'cmake-server(7)' is deprecated.  Please port clients to use the
+  'cmake-file-api(7)' instead.
+
+

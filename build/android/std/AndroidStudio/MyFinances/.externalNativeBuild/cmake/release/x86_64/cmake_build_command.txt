@@ -1,0 +1,23 @@
+Executable : /home/dudkiewm/.local/bin/cmake
+arguments : 
+-H/home/dudkiewm/boden/MyFinances
+-B/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/release/x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-23
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/release/obj/x86_64
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21
+-DCMAKE_CXX_FLAGS=-std=c++17 -frtti -fexceptions
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_SYSTEM_VERSION=23
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21
+-DCMAKE_TOOLCHAIN_FILE=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/build/cmake/android.toolchain.cmake
+-G Ninja
+-DANDROID_STL=c++_static
+-DANDROID_CPP_FEATURES=rtti exceptions
+-DBDN_ANDROID_MIN_SDK_VERSION=23
+-DBDN_ANDROID_TARGET_SDK_VERSION=28
+jvmArgs : 
+

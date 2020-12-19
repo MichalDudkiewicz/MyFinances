@@ -1,0 +1,1794 @@
+{
+  "stringTable": {
+    "0": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP_ID=io.boden.MyFinances -DANDROID_VERSION=1.0.0 -DANDROID_VERSION_ID=1 -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DMyFinances_EXPORTS -DUNICODE -D_UNICODE -I/home/dudkiewm/boden/3rdparty/json/single_include -I/home/dudkiewm/boden/framework/foundation/include -Iboden/framework/foundation/include -I/home/dudkiewm/boden/framework/foundation/platforms/android/include -I/home/dudkiewm/boden/framework/net/include -Iboden/framework/net/include -I/home/dudkiewm/boden/framework/net/platforms/android/include -I/home/dudkiewm/boden/framework/ui/include -Iboden/framework/ui/include -I/home/dudkiewm/boden/framework/ui/platforms/android/include -I/home/dudkiewm/boden/framework/ui/modules/yoga/include -Iboden/framework/ui/modules/yoga/include -I/home/dudkiewm/boden/3rdparty/yoga -I/home/dudkiewm/boden/framework/ui/modules/lottieview/include -Iboden/framework/ui/modules/lottieview/include -I/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "2": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dyogacore_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -std=gnu++17",
+    "3": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dfoundation_EXPORTS -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../3rdparty/json/single_include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "4": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dfoundation_android_EXPORTS -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../3rdparty/json/single_include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "5": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dnet_EXPORTS -I../../../../../../../../../../framework/net/include -Iboden/framework/net/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../3rdparty/json/single_include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "6": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dnet_android_EXPORTS -I../../../../../../../../../../framework/net/platforms/android/include -I../../../../../../../../../../framework/net/include -Iboden/framework/net/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../3rdparty/json/single_include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "7": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dui_EXPORTS -I../../../../../../../../../../framework/ui/include -Iboden/framework/ui/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../3rdparty/json/single_include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "8": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dui_android_EXPORTS -I../../../../../../../../../../framework/ui/platforms/android/include -I../../../../../../../../../../framework/ui/include -Iboden/framework/ui/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../3rdparty/json/single_include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "9": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dyoga_EXPORTS -I../../../../../../../../../../framework/ui/modules/yoga/include -Iboden/framework/ui/modules/yoga/include -I../../../../../../../../../../framework/ui/include -Iboden/framework/ui/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../3rdparty/json/single_include -I../../../../../../../../../../framework/ui/platforms/android/include -I../../../../../../../../../../3rdparty/yoga -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "10": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dlottieview_EXPORTS -I../../../../../../../../../../framework/ui/modules/lottieview/include -Iboden/framework/ui/modules/lottieview/include -I../../../../../../../../../../framework/ui/include -Iboden/framework/ui/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../3rdparty/json/single_include -I../../../../../../../../../../framework/ui/platforms/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "11": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DBDN_ANDROID_MIN_SDK_VERSION=23 -DBDN_HAS_NLOHMANN_JSON -DBDN_SHARED_LIB=1 -DUNICODE -D_UNICODE -Dlottieview_android_EXPORTS -I../../../../../../../../../../framework/ui/modules/lottieview/platforms/android/include -I../../../../../../../../../../framework/ui/modules/lottieview/include -Iboden/framework/ui/modules/lottieview/include -I../../../../../../../../../../framework/ui/include -Iboden/framework/ui/include -I../../../../../../../../../../framework/foundation/include -Iboden/framework/foundation/include -I../../../../../../../../../../framework/foundation/platforms/android/include -I../../../../../../../../../../3rdparty/json/single_include -I../../../../../../../../../../framework/ui/platforms/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC -Wmost -std=gnu++17",
+    "12": "null"
+  },
+  "buildFiles": [
+    "/home/dudkiewm/boden/framework/ui/modules/yoga/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/json/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/warnings.cmake",
+    "/home/dudkiewm/boden/framework/foundation/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/ios.cmake",
+    "/home/dudkiewm/boden/MyFinances/CMakeLists.txt",
+    "/home/dudkiewm/boden/MyFinances/DemoIcon/demo_icon.json",
+    "/home/dudkiewm/boden/cmake/utilities/git.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/bodenConfig.cmake",
+    "/home/dudkiewm/boden/framework/foundation/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/lottie/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/CMakeLists.txt",
+    "/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/build/cmake/platforms.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/xcode.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/install.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/compiler.cmake",
+    "/home/dudkiewm/boden/cmake/templates/combined_header.h.in",
+    "/home/dudkiewm/boden/framework/foundation/install.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/linuxsysteminfo.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/install.cmake",
+    "/home/dudkiewm/boden/framework/ui/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/ui/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/CMakeLists.txt",
+    "/home/dudkiewm/boden/bauer/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/net/install.cmake",
+    "/home/dudkiewm/boden/framework/net/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/roger.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/json/cmake/config.cmake.in",
+    "/home/dudkiewm/boden/framework/net/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/utilities.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/foundation/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/android.cmake",
+    "/home/dudkiewm/boden/package/package.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/platform.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/clangformat.cmake",
+    "/home/dudkiewm/boden/framework/ui/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/ui/install.cmake",
+    "/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/build/cmake/android.toolchain.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/permissions.cmake",
+    "/home/dudkiewm/boden/framework/foundation/config/platform.h.in",
+    "/home/dudkiewm/boden/3rdparty/lottie/install.cmake",
+    "/home/dudkiewm/boden/cmake/templates/App.AndroidManifest.xml.in",
+    "/home/dudkiewm/boden/framework/net/CMakeLists.txt",
+    "/home/dudkiewm/boden/roger/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "foundation_android-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target foundation_android",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "foundation_android",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/Application.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/AttributedString.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/Context.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/MainDispatcher.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/entry.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/Env.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/MethodCaller.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/MethodId.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/ObjectFieldKind.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/Reference.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/StaticFieldKind.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/StaticMethodCaller.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/TypeConversion.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/WeakReference.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/wrapper/Class.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/wrapper/NativeRunnable.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/wrapper/NativeStrongPointer.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/java/wrapper/Object.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/path.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/platform/androidplatform.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/wrapper/CharSequence.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/wrapper/Context.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/wrapper/Intent.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/src/wrapper/TextUtils.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/filesystem/operations.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/filesystem/directory_iterator.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/filesystem/int128_builtins.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/java/io/boden/android/BaselineShiftSpan.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/java/io/boden/android/LinkClickSpan.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/java/io/boden/android/NativeDispatcher.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/java/io/boden/android/NativeInit.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/java/io/boden/java/NativeOnceRunnable.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/java/io/boden/java/NativeRunnable.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/platforms/android/java/io/boden/java/NativeStrongPointer.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/Application.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/AttributedString.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/ContextWrapper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/MainDispatcher.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/appEntry.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/AbsoluteSizeSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/BaseBundle.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/BaselineShiftSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Build.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Bundle.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/CharacterStyle.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Configuration.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Context.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/ForegroundColorSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Handler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Html.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/IBinder.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Intent.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/LinkClickSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Looper.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/MetricAffectingSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/NativeDispatcher.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/NativeHandler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/RStyle.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/RelativeSizeSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Resources.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/SpannableStringBuilder.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Spanned.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/StyleSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/TextUtils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Typeface.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/TypefaceSpan.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/android/wrapper/Uri.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/appInit.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/Env.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/Field.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/FieldAccessor.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/MethodCaller.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/MethodId.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/ObjectField.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/ObjectFieldKind.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/Reference.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/StaticField.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/StaticFieldKind.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/StaticMethodCaller.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/TypeConversion.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/WeakReference.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/ArrayOfObjects.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/ByteBuffer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/CharSequence.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/Class.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/Exception.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/File.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/NativeOnceRunnable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/NativeRunnable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/NativeStrongPointer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/NativeWeakPointer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/Object.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/Runnable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/RuntimeException.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/String.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/java/wrapper/Throwable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/include/bdn/platform/androidplatform.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/platforms/android/filesystem/filesystem_common.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libfoundation_android.so"
+    },
+    "ui_android-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target ui_android",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "ui_android",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/ButtonCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/CheckboxCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/ContainerViewCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/ImageViewCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/LabelCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/ListViewCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/NavigationViewCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/ScrollViewCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/SliderCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/SwitchCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/TextFieldCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/UIApplication.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/ViewCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/WebViewCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/WindowCore.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/appEntry.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeEditTextTextWatcher.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeListAdapter.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeListView.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeNavigationView.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeRootActivity.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeRootView.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeScrollView.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeTextViewOnEditorActionListener.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeViewCoreClickListener.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/src/wrapper/NativeViewCoreLayoutChangeListener.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/LoadImageToViewTask.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/LoadImageToViewTaskCallback.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeButton.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeEditText.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeEditTextTextWatcher.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeImageView.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeLabel.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeListAdapter.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeListView.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeNavigationView.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeRecycleAdapter.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeRootActivity.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeRootView.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeScrollView.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeSeekBar.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeStackFragment.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeTextViewOnEditorActionListener.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeViewCoreClickListener.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeViewCoreLayoutChangeListener.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeViewGroup.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeWebView.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/NativeWebViewClient.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/android/RowContainer.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/platforms/android/java/io/boden/java/io/boden/android/NativeAdapterViewOnItemClickListener.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/ButtonCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/CheckboxCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/ContainerViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/ImageViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/LabelCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/ListViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/NavigationViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/RowContainerView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/ScrollViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/SliderCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/SwitchCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/TextFieldCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/UIApplication.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/ViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/WebViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/WindowCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/Activity.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/AdapterView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/AppCompatEditText.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/AppCompatTextView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/BaseAdapter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/Button.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/CheckBox.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/CompoundButton.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/EditText.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/EditorInfo.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/Gravity.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/InputEvent.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/InputMethodManager.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/InputType.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/KeyEvent.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/Layout.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/ListAdapter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/ListView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeButton.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeEditText.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeEditTextTextWatcher.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeImageView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeLabel.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeListAdapter.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeListView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeNavigationView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeRootActivity.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeRootView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeScrollView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeSeekBar.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeTextViewOnEditorActionListener.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeViewCoreClickListener.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeViewCoreLayoutChangeListener.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NativeViewGroup.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/NestedScrollView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/Paint.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/RecyclerView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/ScrollView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/SeekBar.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/Switch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/TextPaint.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/TextView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/TextWatcher.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/View.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/ViewGroup.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/ViewParent.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/WebView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/platforms/android/include/bdn/android/wrapper/Window.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libui_android.so"
+    },
+    "lottieview-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target lottieview",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "lottieview",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/modules/lottieview/src/View.cpp",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/modules/lottieview/include/bdn/ui/lottie/View.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a/boden/framework/ui/modules/lottieview/include/bdn/ui/lottie.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/liblottieview.so"
+    },
+    "foundation-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target foundation",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "foundation",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/Application.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/AttributedString.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/Color.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/Font.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/String.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/Timer.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/Uri.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/debug.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/genericAppEntry.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/log.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/src/platform/Hooks.cpp",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/foundation/config/platform.h.in",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Application.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/ApplicationController.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/AttributedString.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Color.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Context.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/DispatchQueue.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Factory.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Font.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/GenericApplication.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/GlobalStack.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Json.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/NeedsInit.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Notifier.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Point.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Rect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Size.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/StopWatch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/String.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Timer.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/Uri.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/ValueWithFallback.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/WeakCallback.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/config.endian.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/config.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/debug.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/entry.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/fake_jni/jni.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/genericAppEntry.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/jni.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/log.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/path.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/platform/Hooks.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/property/Backing.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/property/GetterSetterBacking.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/property/Property.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/property/SetterBacking.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/property/StreamBacking.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/property/TransformBacking.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/foundation/include/bdn/property/ValueBacking.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a/boden/framework/foundation/include/bdn/platform.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a/boden/framework/foundation/include/bdn/foundation.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libfoundation.so"
+    },
+    "net_android-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target net_android",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "net_android",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/net/platforms/android/src/HTTP.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/net/platforms/android/java/io/boden/net/FullData.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/net/platforms/android/java/io/boden/net/FullRequest.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/net/platforms/android/java/io/boden/net/VolleyAdapter.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/net/platforms/android/include/HTTP.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/net/platforms/android/include/VolleyAdapter.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libnet_android.so"
+    },
+    "yoga-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target yoga",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "yoga",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/modules/yoga/src/Layout.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/modules/yoga/src/ViewData.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/modules/yoga/include/bdn/ui/yoga/FlexStylesheet.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/modules/yoga/include/bdn/ui/yoga/Layout.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/modules/yoga/include/bdn/ui/yoga/ViewData.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a/boden/framework/ui/modules/yoga/include/bdn/ui/yoga.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libyoga.so"
+    },
+    "net-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target net",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "net",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/net/src/HTTPRequest.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/net/include/bdn/net/HTTP.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/net/include/bdn/net/HTTPRequest.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/net/include/bdn/net/HTTPResponse.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a/boden/framework/net/include/bdn/net.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libnet.so"
+    },
+    "lottieview_android-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target lottieview_android",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "lottieview_android",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/src/LottieViewCore.cpp",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/src/wrapper/LottieAnimationView.cpp",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/java/io/boden/android/NativeLottieAnimationView.java",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/include/bdn/android/LottieViewCore.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/include/bdn/android/wrapper/LottieAnimationView.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/liblottieview_android.so"
+    },
+    "yogacore-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target yogacore",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "yogacore",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/Utils.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGConfig.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGEnums.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGLayout.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGMarker.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGNode.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGNodePrint.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGStyle.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/YGValue.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/Yoga.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/3rdparty/yoga/yoga/log.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libyogacore.so"
+    },
+    "MyFinances-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target MyFinances",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "MyFinances",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/DemoIcon/icons/android/48.png",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/DemoIcon/icons/android/72.png",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/DemoIcon/icons/android/96.png",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/DemoIcon/icons/android/144.png",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/DemoIcon/icons/android/192.png",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/DemoIcon/demo_icon.json",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/source/AppController.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/source/MainViewController.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/MyFinances/source/main.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/source/AppController.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/source/MainViewController.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libMyFinances.so"
+    },
+    "ui-Debug-armeabi-v7a": {
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a\" --target ui",
+      "buildType": "debug",
+      "toolchain": "847473954",
+      "abi": "armeabi-v7a",
+      "artifactName": "ui",
+      "files": [
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/Button.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/Checkbox.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/ContainerView.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/ImageView.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/Label.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/ListView.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/NavigationView.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/ScrollView.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/Slider.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/Styler.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/Switch.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/TextField.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/UIApplicationController.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/View.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/ViewCoreFactory.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/WebView.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/dudkiewm/boden/framework/ui/src/Window.cpp",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Button.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Checkbox.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ClickEvent.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ContainerView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/CoreLess.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ImageView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Label.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Layout.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ListView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ListViewDataSource.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/NavigationView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ScrollView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Slider.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Styler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/SubmitEvent.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Switch.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Text.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/TextField.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/TextOverflow.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/TriState.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/UIApplicationController.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/View.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ViewCoreFactory.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ViewCoreTypeNotSupportedError.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ViewEvent.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/ViewUtilities.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/WebView.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/Window.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/framework/ui/include/bdn/ui/textInputTypes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/armeabi-v7a/boden/framework/ui/include/bdn/ui.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/debug/obj/armeabi-v7a/libui.so"
+    }
+  },
+  "toolchains": {
+    "847473954": {
+      "cppCompilerExecutable": "/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

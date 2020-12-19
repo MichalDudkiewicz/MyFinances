@@ -1,0 +1,15 @@
+Performing C++ SOURCE FILE Test HAS_STD_FILESYSTEM failed with the following output:
+Change Dir: /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/x86_64/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_dea3c && [1/2] Building CXX object CMakeFiles/cmTC_dea3c.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_dea3c
+FAILED: cmTC_dea3c 
+: && /home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android23 --gcc-toolchain=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions -std=c++17 -frtti -fexceptions -DHAS_STD_FILESYSTEM -std=c++17 -Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections CMakeFiles/cmTC_dea3c.dir/src.cxx.o -o cmTC_dea3c  -latomic -lm && :
+/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/c++/v1/filesystem:1900: error: undefined reference to 'std::__ndk1::__fs::filesystem::__space(std::__ndk1::__fs::filesystem::path const&, std::__ndk1::error_code*)'
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <filesystem>
+int main() { std::filesystem::space("/"); }

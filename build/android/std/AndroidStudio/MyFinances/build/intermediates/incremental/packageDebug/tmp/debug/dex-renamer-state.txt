@@ -1,0 +1,7 @@
+#Sat Dec 19 17:38:47 CET 2020
+base.0=/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/dex/debug/mergeProjectDexDebug/out

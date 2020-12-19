@@ -1,0 +1,8 @@
+Executable : /home/dudkiewm/.local/bin/cmake
+arguments : 
+--build
+/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/debug/x86_64
+--target
+MyFinances
+jvmArgs : 
+

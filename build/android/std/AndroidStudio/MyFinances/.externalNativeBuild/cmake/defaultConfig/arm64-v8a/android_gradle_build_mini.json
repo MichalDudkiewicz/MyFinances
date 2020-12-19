@@ -1,0 +1,125 @@
+{
+  "buildFiles": [
+    "/home/dudkiewm/boden/framework/ui/modules/yoga/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/json/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/warnings.cmake",
+    "/home/dudkiewm/boden/framework/foundation/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/ios.cmake",
+    "/home/dudkiewm/boden/MyFinances/CMakeLists.txt",
+    "/home/dudkiewm/boden/MyFinances/DemoIcon/demo_icon.json",
+    "/home/dudkiewm/boden/cmake/utilities/git.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/bodenConfig.cmake",
+    "/home/dudkiewm/boden/framework/foundation/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/lottie/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/CMakeLists.txt",
+    "/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/build/cmake/platforms.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/xcode.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/install.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/compiler.cmake",
+    "/home/dudkiewm/boden/cmake/templates/combined_header.h.in",
+    "/home/dudkiewm/boden/framework/foundation/install.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/linuxsysteminfo.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/install.cmake",
+    "/home/dudkiewm/boden/framework/ui/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/ui/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/CMakeLists.txt",
+    "/home/dudkiewm/boden/bauer/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/net/install.cmake",
+    "/home/dudkiewm/boden/framework/net/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/roger.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/json/cmake/config.cmake.in",
+    "/home/dudkiewm/boden/framework/net/platforms/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/utilities.cmake",
+    "/home/dudkiewm/boden/framework/ui/modules/lottieview/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/foundation/platforms/android/CMakeLists.txt",
+    "/home/dudkiewm/boden/3rdparty/CMakeLists.txt",
+    "/home/dudkiewm/boden/cmake/utilities/android.cmake",
+    "/home/dudkiewm/boden/package/package.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/platform.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/clangformat.cmake",
+    "/home/dudkiewm/boden/framework/ui/CMakeLists.txt",
+    "/home/dudkiewm/boden/framework/ui/install.cmake",
+    "/home/dudkiewm/Library/Android/sdk/ndk/ndk-r21/build/cmake/android.toolchain.cmake",
+    "/home/dudkiewm/boden/cmake/utilities/permissions.cmake",
+    "/home/dudkiewm/boden/framework/foundation/config/platform.h.in",
+    "/home/dudkiewm/boden/3rdparty/lottie/install.cmake",
+    "/home/dudkiewm/boden/cmake/templates/App.AndroidManifest.xml.in",
+    "/home/dudkiewm/boden/framework/net/CMakeLists.txt",
+    "/home/dudkiewm/boden/roger/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target clean"
+  ],
+  "libraries": {
+    "foundation_android-Release-arm64-v8a": {
+      "artifactName": "foundation_android",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target foundation_android",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libfoundation_android.so"
+    },
+    "yoga-Release-arm64-v8a": {
+      "artifactName": "yoga",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target yoga",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libyoga.so"
+    },
+    "ui-Release-arm64-v8a": {
+      "artifactName": "ui",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target ui",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libui.so"
+    },
+    "yogacore-Release-arm64-v8a": {
+      "artifactName": "yogacore",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target yogacore",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libyogacore.so"
+    },
+    "ui_android-Release-arm64-v8a": {
+      "artifactName": "ui_android",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target ui_android",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libui_android.so"
+    },
+    "MyFinances-Release-arm64-v8a": {
+      "artifactName": "MyFinances",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target MyFinances",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libMyFinances.so"
+    },
+    "lottieview-Release-arm64-v8a": {
+      "artifactName": "lottieview",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target lottieview",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/liblottieview.so"
+    },
+    "foundation-Release-arm64-v8a": {
+      "artifactName": "foundation",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target foundation",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libfoundation.so"
+    },
+    "net-Release-arm64-v8a": {
+      "artifactName": "net",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target net",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libnet.so"
+    },
+    "net_android-Release-arm64-v8a": {
+      "artifactName": "net_android",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target net_android",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/libnet_android.so"
+    },
+    "lottieview_android-Release-arm64-v8a": {
+      "artifactName": "lottieview_android",
+      "buildCommand": "/home/dudkiewm/.local/bin/cmake --build \"/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/.externalNativeBuild/cmake/defaultConfig/arm64-v8a\" --target lottieview_android",
+      "abi": "arm64-v8a",
+      "output": "/home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/build/intermediates/cmake/defaultConfig/obj/arm64-v8a/liblottieview_android.so"
+    }
+  }
+}

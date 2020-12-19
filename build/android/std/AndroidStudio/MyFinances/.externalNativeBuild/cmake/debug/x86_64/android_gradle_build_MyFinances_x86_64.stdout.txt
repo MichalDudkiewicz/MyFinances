@@ -1,0 +1,113 @@
+[1/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGEnums.cpp.o
+[2/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGNodePrint.cpp.o
+[3/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGValue.cpp.o
+[4/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGMarker.cpp.o
+[5/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGStyle.cpp.o
+[6/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/log.cpp.o
+[7/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGConfig.cpp.o
+[8/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/Utils.cpp.o
+[9/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGLayout.cpp.o
+[10/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/YGNode.cpp.o
+[11/113] Building CXX object boden/3rdparty/CMakeFiles/yogacore.dir/yoga/yoga/Yoga.cpp.o
+[12/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libyogacore.so
+[13/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/debug.cpp.o
+[14/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/log.cpp.o
+[15/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/platform/Hooks.cpp.o
+[16/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/Uri.cpp.o
+[17/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/Application.cpp.o
+[18/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/MethodCaller.cpp.o
+[19/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/AttributedString.cpp.o
+[20/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/String.cpp.o
+[21/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/genericAppEntry.cpp.o
+[22/113] Building CXX object CMakeFiles/MyFinances.dir/source/AppController.cpp.o
+[23/113] Building CXX object CMakeFiles/MyFinances.dir/source/main.cpp.o
+[24/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/Env.cpp.o
+[25/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/Reference.cpp.o
+[26/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/Font.cpp.o
+[27/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/entry.cpp.o
+[28/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/Timer.cpp.o
+[29/113] Building CXX object boden/framework/foundation/CMakeFiles/foundation.dir/src/Color.cpp.o
+[30/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/WeakReference.cpp.o
+[31/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/Application.cpp.o
+[32/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/Context.cpp.o
+[33/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libfoundation.so
+[34/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/ObjectFieldKind.cpp.o
+[35/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/MethodId.cpp.o
+[36/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/platform/androidplatform.cpp.o
+[37/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/StaticMethodCaller.cpp.o
+[38/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/StaticFieldKind.cpp.o
+[39/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/MainDispatcher.cpp.o
+[40/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/wrapper/Class.cpp.o
+[41/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/filesystem/int128_builtins.cpp.o
+[42/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/TypeConversion.cpp.o
+[43/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/AttributedString.cpp.o
+[44/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/wrapper/NativeRunnable.cpp.o
+[45/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/wrapper/Object.cpp.o
+[46/113] Building CXX object boden/framework/net/CMakeFiles/net.dir/src/HTTPRequest.cpp.o
+[47/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/path.cpp.o
+[48/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/java/wrapper/NativeStrongPointer.cpp.o
+[49/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/filesystem/operations.cpp.o
+[50/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/filesystem/directory_iterator.cpp.o
+[51/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/wrapper/CharSequence.cpp.o
+[52/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/wrapper/Context.cpp.o
+[53/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/wrapper/Intent.cpp.o
+[54/113] Building CXX object boden/framework/foundation/platforms/android/CMakeFiles/foundation_android.dir/src/wrapper/TextUtils.cpp.o
+[55/113] Building CXX object CMakeFiles/MyFinances.dir/source/MainViewController.cpp.o
+[56/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libfoundation_android.so
+[57/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libnet.so
+[58/113] Building CXX object boden/framework/net/platforms/android/CMakeFiles/net_android.dir/src/HTTP.cpp.o
+[59/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libnet_android.so
+[60/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/ContainerView.cpp.o
+[61/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/NavigationView.cpp.o
+[62/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/UIApplicationController.cpp.o
+[63/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/Slider.cpp.o
+[64/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/Styler.cpp.o
+[65/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/Switch.cpp.o
+[66/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/Button.cpp.o
+[67/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/ImageView.cpp.o
+[68/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/Checkbox.cpp.o
+[69/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/ViewCoreFactory.cpp.o
+[70/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/ScrollView.cpp.o
+[71/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/ListView.cpp.o
+[72/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/Label.cpp.o
+[73/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/WebView.cpp.o
+[74/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/TextField.cpp.o
+[75/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/ContainerViewCore.cpp.o
+[76/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/View.cpp.o
+[77/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/ButtonCore.cpp.o
+[78/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/CheckboxCore.cpp.o
+[79/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/NavigationViewCore.cpp.o
+[80/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/SliderCore.cpp.o
+[81/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/ImageViewCore.cpp.o
+[82/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/SwitchCore.cpp.o
+[83/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/ScrollViewCore.cpp.o
+[84/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/ListViewCore.cpp.o
+[85/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/LabelCore.cpp.o
+[86/113] Building CXX object boden/framework/ui/CMakeFiles/ui.dir/src/Window.cpp.o
+[87/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libui.so
+[88/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/appEntry.cpp.o
+[89/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/UIApplication.cpp.o
+[90/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/ViewCore.cpp.o
+[91/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/WebViewCore.cpp.o
+[92/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeListView.cpp.o
+[93/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeNavigationView.cpp.o
+[94/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeRootActivity.cpp.o
+[95/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeListAdapter.cpp.o
+[96/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeScrollView.cpp.o
+[97/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeRootView.cpp.o
+[98/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeEditTextTextWatcher.cpp.o
+[99/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/WindowCore.cpp.o
+[100/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/TextFieldCore.cpp.o
+[101/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeViewCoreClickListener.cpp.o
+[102/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeViewCoreLayoutChangeListener.cpp.o
+[103/113] Building CXX object boden/framework/ui/platforms/android/CMakeFiles/ui_android.dir/src/wrapper/NativeTextViewOnEditorActionListener.cpp.o
+[104/113] Building CXX object boden/framework/ui/modules/yoga/CMakeFiles/yoga.dir/src/Layout.cpp.o
+[105/113] Building CXX object boden/framework/ui/modules/lottieview/platforms/android/CMakeFiles/lottieview_android.dir/src/wrapper/LottieAnimationView.cpp.o
+[106/113] Building CXX object boden/framework/ui/modules/yoga/CMakeFiles/yoga.dir/src/ViewData.cpp.o
+[107/113] Building CXX object boden/framework/ui/modules/lottieview/CMakeFiles/lottieview.dir/src/View.cpp.o
+[108/113] Building CXX object boden/framework/ui/modules/lottieview/platforms/android/CMakeFiles/lottieview_android.dir/src/LottieViewCore.cpp.o
+[109/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libui_android.so
+[110/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/liblottieview.so
+[111/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libyoga.so
+[112/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/liblottieview_android.so
+[113/113] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libMyFinances.so

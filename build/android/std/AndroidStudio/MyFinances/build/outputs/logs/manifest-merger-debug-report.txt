@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.airbnb.android:lottie:2.8.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f9f8a48d89e8c5d23ed987c360d849a1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e3ea069781b5ce22453f389e3e2bdd55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f6284ffde6164c65fece8ec8dd3917b0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9859d53646da289afd53a09ca36c9715/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/058f951e4bb55cc06334ebfc501caf89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/cb861ba5a321a18846880aa0a417256b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/fe1a695789ac7a4243248c01da8c281f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/ed39b15aa09b212c39f988411f0174e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/857ced42313495fd299c53e63f50bb5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d270e2b96b7f34fb659a500a7921bc0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/94bd0eefbff16d79d81877c7962b1b05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/365f0282b7f0a952f845bfe4741d6b61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e2ae1f083bdbf0a05279ef7f5e9d1e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/247280cbd5a85638a22945883840f63f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/670195931f03b23806ee68fcae6439e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e24ef19639fb16a4ac8f62b97ea81837/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/5baf98c0da56f26e84196d47f572ec18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/65d591daa732c61e352cf9c7d3936fd9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/5feba414fb60702264e34890e5e7a137/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/6b06072870c2b4046cdb90749a0ea8a8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/080ef3bfb8d04abf016692a38775d781/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9c7e14027a0faef5ff63a29a01bb9f1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/951d8dcf983a3047e2d83e15f07d7297/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d264d7151899f37d6e3b9029bc388596/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/60c2d4be524f56ed2a2cbf9bd7b5dde7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d23f9b0e858aa828cf19f100feb0c2cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/b3ae8fc7c09b69b81f7b5b7b8659c06e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/1300a633c6460d2a8f4a133611d67d1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f94191adfa1855356b8c9ac4d3108ae6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/b3ccb2717066188a5c06dd4bc04dbd6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/1dd22f7148af010fda88ce16541c5c46/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:70-99
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:10:3-26:17
+MERGED from [com.airbnb.android:lottie:2.8.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f9f8a48d89e8c5d23ed987c360d849a1/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.8.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f9f8a48d89e8c5d23ed987c360d849a1/AndroidManifest.xml:11:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f6284ffde6164c65fece8ec8dd3917b0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f6284ffde6164c65fece8ec8dd3917b0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9859d53646da289afd53a09ca36c9715/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9859d53646da289afd53a09ca36c9715/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/6b06072870c2b4046cdb90749a0ea8a8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/6b06072870c2b4046cdb90749a0ea8a8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/080ef3bfb8d04abf016692a38775d781/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/080ef3bfb8d04abf016692a38775d781/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/6b06072870c2b4046cdb90749a0ea8a8/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:12:5-37
+	android:icon
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:14:5-43
+	android:allowBackup
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:11:5-31
+	android:theme
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:13:5-52
+activity#io.boden.android.NativeRootActivity
+ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:15:5-25:16
+	android:label
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:16:15-47
+	android:configChanges
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:17:15-188
+	android:name
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:15:15-65
+meta-data#io.boden.android.lib_name
+ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:19:7-88
+	android:value
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:19:59-85
+	android:name
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:19:18-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:21:7-24:23
+action#android.intent.action.MAIN
+ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml:23:19-66
+uses-sdk
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+MERGED from [com.airbnb.android:lottie:2.8.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f9f8a48d89e8c5d23ed987c360d849a1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.8.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f9f8a48d89e8c5d23ed987c360d849a1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e3ea069781b5ce22453f389e3e2bdd55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e3ea069781b5ce22453f389e3e2bdd55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f6284ffde6164c65fece8ec8dd3917b0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f6284ffde6164c65fece8ec8dd3917b0/AndroidManifest.xml:7:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9859d53646da289afd53a09ca36c9715/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9859d53646da289afd53a09ca36c9715/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/058f951e4bb55cc06334ebfc501caf89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/058f951e4bb55cc06334ebfc501caf89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/cb861ba5a321a18846880aa0a417256b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/cb861ba5a321a18846880aa0a417256b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/fe1a695789ac7a4243248c01da8c281f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/fe1a695789ac7a4243248c01da8c281f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/ed39b15aa09b212c39f988411f0174e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/ed39b15aa09b212c39f988411f0174e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/857ced42313495fd299c53e63f50bb5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/857ced42313495fd299c53e63f50bb5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d270e2b96b7f34fb659a500a7921bc0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d270e2b96b7f34fb659a500a7921bc0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/94bd0eefbff16d79d81877c7962b1b05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/94bd0eefbff16d79d81877c7962b1b05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/365f0282b7f0a952f845bfe4741d6b61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/365f0282b7f0a952f845bfe4741d6b61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e2ae1f083bdbf0a05279ef7f5e9d1e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e2ae1f083bdbf0a05279ef7f5e9d1e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/247280cbd5a85638a22945883840f63f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/247280cbd5a85638a22945883840f63f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/670195931f03b23806ee68fcae6439e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/670195931f03b23806ee68fcae6439e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e24ef19639fb16a4ac8f62b97ea81837/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/e24ef19639fb16a4ac8f62b97ea81837/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/5baf98c0da56f26e84196d47f572ec18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/5baf98c0da56f26e84196d47f572ec18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/65d591daa732c61e352cf9c7d3936fd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/65d591daa732c61e352cf9c7d3936fd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/5feba414fb60702264e34890e5e7a137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/5feba414fb60702264e34890e5e7a137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/6b06072870c2b4046cdb90749a0ea8a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/6b06072870c2b4046cdb90749a0ea8a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/080ef3bfb8d04abf016692a38775d781/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/080ef3bfb8d04abf016692a38775d781/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9c7e14027a0faef5ff63a29a01bb9f1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/9c7e14027a0faef5ff63a29a01bb9f1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/951d8dcf983a3047e2d83e15f07d7297/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/951d8dcf983a3047e2d83e15f07d7297/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d264d7151899f37d6e3b9029bc388596/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d264d7151899f37d6e3b9029bc388596/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/60c2d4be524f56ed2a2cbf9bd7b5dde7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/60c2d4be524f56ed2a2cbf9bd7b5dde7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d23f9b0e858aa828cf19f100feb0c2cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/d23f9b0e858aa828cf19f100feb0c2cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/b3ae8fc7c09b69b81f7b5b7b8659c06e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/b3ae8fc7c09b69b81f7b5b7b8659c06e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/1300a633c6460d2a8f4a133611d67d1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/1300a633c6460d2a8f4a133611d67d1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f94191adfa1855356b8c9ac4d3108ae6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/f94191adfa1855356b8c9ac4d3108ae6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/b3ccb2717066188a5c06dd4bc04dbd6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/b3ccb2717066188a5c06dd4bc04dbd6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/1dd22f7148af010fda88ce16541c5c46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dudkiewm/.gradle/caches/transforms-2/files-2.1/1dd22f7148af010fda88ce16541c5c46/AndroidManifest.xml:20:5-44
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+		ADDED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
+		INJECTED from /home/dudkiewm/boden/MyFinances/build/android/std/AndroidStudio/MyFinances/src/main/AndroidManifest.xml
