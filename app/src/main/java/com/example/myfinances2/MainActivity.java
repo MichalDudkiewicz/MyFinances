@@ -40,6 +40,12 @@ import com.github.mikephil.charting.components.Legend;
 import com.github.mikephil.charting.data.PieData;
 import com.github.mikephil.charting.data.PieDataSet;
 import com.github.mikephil.charting.data.PieEntry;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.Logger;
+import com.google.firebase.database.ValueEventListener;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -58,9 +64,15 @@ public class MainActivity extends AppCompatActivity {
 
     private float x1, x2, y1, y2;
 
+//    DatabaseReference m_dbRef;
+//    DatabaseReference m_conRef;
+
     @SuppressLint("ClickableViewAccessibility")
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        FirebaseDatabase.getInstance().setLogLevel(Logger.Level.DEBUG);
+//        m_dbRef = FirebaseDatabase.getInstance().getReference();
+//        m_conRef = m_dbRef.child("message");
         setContentView(R.layout.activity_main);
         mDatabaseHelper = new DatabaseHelper(this);
 
@@ -135,6 +147,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
             sum += item.value();
+
         }
 
 
@@ -188,7 +201,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 sendMessage();
-
             }
         });
 
@@ -208,6 +220,24 @@ public class MainActivity extends AppCompatActivity {
         //More options just check out the documentation!
 
         addDataSet();
+
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference myRef = database.getReference("message2");
+
+        myRef.setValue("Hello, World!");
+//
+//        m_conRef.addValueEventListener(new ValueEventListener() {
+//            @Override
+//            public void onDataChange(@NonNull DataSnapshot snapshot) {
+//                String text = snapshot.getValue(String.class);
+//                toastMessage(text);
+//            }
+//
+//            @Override
+//            public void onCancelled(@NonNull DatabaseError error) {
+//
+//            }
+//        });
     }
 
     private void addDataSet() {
